@@ -29,12 +29,12 @@ function init() {
     "Hola mi Musarañita",
     "Hoy quiero recordarte",
     "Lo mucho que te quiero",
-    "Que eres increíble",
-    "Que me inspiras",
-    "Que me haces feliz",
-    "Que estoy orgulloso",
-    "De todo lo que haces",
-    "Y de quien eres",
+    "Que quiero pasar",
+    "Más que estos 4 años contigo,",
+    "Quiero estar toda una vida",
+    "Me siento orgulloso",
+    "De todo lo que eres y haces",
+    "Y del amor que hemos cultivado",
     "Te amo ❤️",
   ];
 
@@ -194,3 +194,4 @@ function init() {
 const s = document.readyState;
 if (s === "complete" || s === "loaded" || s === "interactive") init();
 else document.addEventListener("DOMContentLoaded", init, false);
+
